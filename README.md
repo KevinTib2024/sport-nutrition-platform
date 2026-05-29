@@ -96,7 +96,7 @@ The database was implemented using Entity Framework migrations and SQL Server.
 
 ## Live Demo
 
-Add your deployed frontend link here.
+https://front-end-sport-nutrition-l8it.vercel.app
 
 ---
 
