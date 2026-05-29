@@ -80,6 +80,9 @@ The database was implemented using Entity Framework migrations and SQL Server.
 ### Home Page
 ![Home](assets/screenshots/ChatBot-Inicio.png)
 
+### ChatBot 
+![Home](assets/screenshots/ChatBot-Tidio.png)
+
 ### Register
 ![Chatbot](assets/screenshots/Registro.png)
 
