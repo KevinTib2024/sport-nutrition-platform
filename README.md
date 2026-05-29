@@ -78,19 +78,19 @@ The database was implemented using Entity Framework migrations and SQL Server.
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/ChatBot-Inicio.png)
+![Home](assets/screenshots/ChatBot-Inicio.png)
 
 ### Register
-![Chatbot](screenshots/Registro.png)
+![Chatbot](assets/screenshots/Registro.png)
 
 ### Swagger API
-![Swagger](screenshots/swagger.png)
+![Swagger](assets/screenshots/swagger.png)
 
 ### Login
-![Swagger](screenshots/Login.png)
+![Swagger](assets/screenshots/Login.png)
 
 ### Diagram DB
-![Swagger](screenshots/Diagrama-DB.jpg)
+![Swagger](assets/screenshots/Diagrama-DB.jpg)
 
 ---
 
