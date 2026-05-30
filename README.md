@@ -29,9 +29,7 @@ The project was developed using ASP.NET Core with a layered architecture to ensu
 
 ### Frontend
 
-* HTML
-* CSS
-* JavaScript
+https://github.com/KevinTib2024/sport-nutrition-frontend.git 
 
 ### Deployment
 
@@ -77,20 +75,9 @@ The database was implemented using Entity Framework migrations and SQL Server.
 
 ## Screenshots
 
-### Home Page
-![Home](assets/screenshots/ChatBot-Inicio.png)
-
-### ChatBot 
-![Home](assets/screenshots/ChatBot-Tidio.png)
-
-### Register
-![Chatbot](assets/screenshots/Registro.png)
 
 ### Swagger API
 ![Swagger](assets/screenshots/swagger.png)
-
-### Login
-![Swagger](assets/screenshots/Login.png)
 
 ### Diagram DB
 ![Swagger](assets/screenshots/Diagrama-DB.jpg)
